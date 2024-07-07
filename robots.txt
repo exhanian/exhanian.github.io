@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://exhanian.github.io/sitemap.html.gz
+Sitemap: https://exhanian.github.io/app/sitemap.html.gz
+Sitemap: https://exhanian.github.io/assets/sitemap.html.gz
+Sitemap: https://exhanian.github.io/css/sitemap.html.gz
+Sitemap: https://exhanian.github.io/includes/sitemap.html.gz
+Sitemap: https://exhanian.github.io/item/sitemap.html.gz
+Sitemap: https://exhanian.github.io/src/sitemap.html.gz
